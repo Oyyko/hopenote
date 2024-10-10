@@ -1,0 +1,2 @@
+-std=c++17
+-I/nix/store/183g9ga140lb3bn16mny1vjmklj1cgyn-libcxx-16.0.6-dev/include/c++/v1/
